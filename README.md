@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Caio Caldas
 - 👀 I'm interested in learning
-- 🌱 I'm currently learning Python and javascript
+- 🌱 My main programming languages ​​are Python and React.
 - 💞️ Seek to collaborate on new projects
 
 
